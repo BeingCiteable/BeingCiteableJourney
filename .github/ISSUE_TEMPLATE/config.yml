@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "📊 Automated Development Journey"
+    url: "https://github.com/BeingCiteable/BeingCiteableJourney"
+    about: "This repository tracks development progress automatically. Manual issues are not accepted. Progress is synced from private development repository."
+  - name: "🔄 Weekly Progress Updates"
+    url: "https://github.com/BeingCiteable/BeingCiteableJourney/releases"
+    about: "Check weekly releases for automated development progress updates."
+  - name: "📈 Development Metrics"
+    url: "https://github.com/BeingCiteable/BeingCiteableJourney/blob/main/data/development-metrics.json"
+    about: "View real-time development metrics synced from private repository."
