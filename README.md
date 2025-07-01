@@ -36,7 +36,18 @@ Total: 40 weeks = 10 months
 **Phase:** 1 - Development  
 **Week:** 1 - Foundation & Infrastructure  
 **Started:** June 30, 2025  
-**Current Milestone:** Tech stack setup and architecture decisions  
+**Current Milestone:** Tech stack decisions completed - Azure, Entra External ID, Azure SQL Serverless, GitHub Actions
+
+### ✅ Completed Technology Decisions
+- **Cloud Platform:** Azure (Microsoft ecosystem familiarity)
+- **Authentication:** Microsoft Entra External ID (cost-effective, easy integration)
+- **Database:** Azure SQL (MSSQL Serverless) with auto pause (speed over cost, optimized with auto pause)
+- **CI/CD:** GitHub Actions (native integration with source hosting)
+
+### 📝 Architecture Notes
+- No staging/test environment initially for cost savings
+- Development and production environments only until close to launch
+- Focus on Microsoft stack for team familiarity and faster development  
 
 ## 🗺️ Complete Roadmap
 
@@ -49,10 +60,17 @@ Total: 40 weeks = 10 months
 ## 📊 Current Phase: Development
 
 This repository focuses solely on **Phase 1: Development** with automated tracking of:
-- Weekly development progress
-- Technical decisions and architecture choices  
-- Development metrics synced from private repository
-- Automated issue generation and release documentation
+- ✅ Weekly development progress
+- ✅ Technical decisions and architecture choices (4/4 major decisions completed)
+- 📊 Development metrics synced from private repository
+- 🤖 Automated issue generation and release documentation
+
+### 🏗️ Technology Stack Decisions (Week 1)
+All major infrastructure decisions completed:
+- **Cloud:** Azure (Microsoft ecosystem expertise)
+- **Auth:** Microsoft Entra External ID (free tier, easy integration)
+- **Database:** Azure SQL Serverless with auto pause (familiarity + cost optimization)
+- **CI/CD:** GitHub Actions (native source code integration)
 
 ## 🔗 Quick Navigation
 
