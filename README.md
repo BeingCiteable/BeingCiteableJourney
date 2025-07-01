@@ -26,9 +26,10 @@ Weekend Development:
 
 Total Weekly: 13-15 hours (sustainable for months)
 
-Phase 1: Development (24 weeks = 6 months)
-Phase 2: Launch (4 weeks = 1 month)  
-Phase 3: Dogfooding (12 weeks = 3 months)
+- Phase 1: Development (24 weeks = 6 months)
+- Phase 2: Launch (4 weeks = 1 month)
+- Phase 3: Dogfooding (12 weeks = 3 months)
+
 Total: 40 weeks = 10 months
 
 ## 📊 Current Status
