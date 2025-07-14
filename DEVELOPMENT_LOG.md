@@ -2,6 +2,20 @@
 
 <!-- Weekly development progress and coding journey -->
 
+## Week 2 (2025-07-07 to 2025-07-20)
+
+📅 **Period**: 2025-07-07 to 2025-07-20 | 🏗️ **Phase**: Phase 1 - Development | 📊 **Commits**: 8 | 📁 **Files**: 136 | 👥 **Contributors**: 1
+
+**Key Highlights**:
+- Refactor architecture and remove legacy components
+- Enhance CQRS framework with new features and optimizations
+- Implement CQRS architecture and clean up legacy code
+
+📖 **[View Detailed Weekly Log →](weekly-logs/week-2-2025.md)**
+
+---
+
+
 ## Week 1 (2025-06-30 to 2025-07-06)
 
 📅 **Period**: 2025-06-30 to 2025-07-06 | 🏗️ **Phase**: Phase 1 - Development | 📊 **Commits**: 5 | 📁 **Files**: 17 | 👥 **Contributors**: 2
