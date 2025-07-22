@@ -2,6 +2,18 @@
 
 <!-- Weekly development progress and coding journey -->
 
+## Week 4 (2025-07-21 to 2025-07-27)
+
+📅 **Period**: 2025-07-21 to 2025-07-27 | 🏗️ **Phase**: Phase 1 - Development | 📊 **Commits**: 5 | 📁 **Files**: 2 | 👥 **Contributors**: 1
+
+**Key Highlights**:
+- Enhance weekly development sync workflow by updating the DEVELOPMENT_LOG.md and adding artifact upload/download steps for journey files
+
+📖 **[View Detailed Weekly Log →](weekly-logs/week-4-2025.md)**
+
+---
+
+
 ## Week 2 (2025-07-07 to 2025-07-20)
 
 📅 **Period**: 2025-07-07 to 2025-07-20 | 🏗️ **Phase**: Phase 1 - Development | 📊 **Commits**: 8 | 📁 **Files**: 136 | 👥 **Contributors**: 1
